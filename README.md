@@ -5,6 +5,7 @@ Instructions to execute algorithm:-
 
 1) After uncompressing the zip file, go to "bigamp_one_bit_joint_est" folder
 2) Then, enter "code" folder that contains all the GAMP libraries and PBIGAMP
-3) Enter "PBiGAMP" folder and run "joint_CFO_channel_estim.m"
+3) Enter "PBiGAMP" folder and run "joint_CFO_channel_estim_one_bit.m"
 
-For the infinite resolution case, go through the same steps 1-3, but with "bigamp_inf_bit_joint_est" in step 1.
+For the infinite resolution case, go through the same steps 1-3, but with "bigamp_inf_bit_joint_est" in step 1 and 
+"joint_CFO_channel_estim.m" in step 3
